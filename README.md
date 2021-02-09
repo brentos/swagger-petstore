@@ -1,6 +1,6 @@
 # Using redocly to hide internal APIs (using swagger petstore example)
 
-This is the swagger petstore with one additional custom tag -- x-internal -- that can be used to generate openapi specs with and without internal APIs.
+This is the swagger petstore with one additional custom tag -- x-internal -- that can be used to generate openapi specs with and without internal APIs. The details of how this works are described [here](https://redoc.ly/docs/resources/hide-apis/)
 
 To run this example, first [install openapi-cli](https://redoc.ly/docs/cli/) from Redocly (requires npm):
 
