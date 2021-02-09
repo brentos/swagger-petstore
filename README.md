@@ -6,7 +6,6 @@ To run this example, first [install openapi-cli](https://redoc.ly/docs/cli/) fro
 
 ```
 npm install -g @redocly/openapi-cli
-
 ```
 
 Then run the following commands from this directory:
